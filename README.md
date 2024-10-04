@@ -25,6 +25,7 @@ I am currently pursuing a bachelor's degree in Information Systems at Fundação
 [![C](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=orange)]()
 [![C](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=)]()
 [![C](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=HTML5&logoColor=)]()
+[![C](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=GIT&logoColor=green)]()
 
 
 
