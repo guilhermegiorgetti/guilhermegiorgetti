@@ -10,7 +10,7 @@
 
 ### Backend Developer | Software Engineering
 
-Hello! I'm **Guilherme Medeiros Giorgetti**, a software developer and **Information Systems** student at Fundação Hermínio Ometto (FHO).
+Hello! I'm **Guilherme Medeiros Giorgetti**, a software developer and **Information Systems** student at AhembiMorumbi.
 
 My main focus is **backend development and software engineering**, with hands-on experience building **REST APIs, databases, automation workflows, tests, containerized applications, and infrastructure**.
 
@@ -24,7 +24,7 @@ I'm particularly interested in **software architecture, distributed systems, aut
 
 ## 🚀 About Me
 
-* 🎓 Bachelor's Degree in **Information Systems — FHO**
+* 🎓 Bachelor's Degree in **Information Systems — AnhembiMorumbi**
 * 💻 Main focus on **Backend Development**
 * 🐍 Building APIs and backend services with **Python + FastAPI**
 * 🗄️ Experience with **PostgreSQL and MongoDB**
