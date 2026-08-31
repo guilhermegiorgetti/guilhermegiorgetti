@@ -10,7 +10,7 @@
 
 ### Backend Developer | Software Engineering
 
-Hello! I'm **Guilherme Medeiros Giorgetti**, a software developer and **Information Systems** student at AhembiMorumbi.
+Hello! I'm **Guilherme Medeiros Giorgetti**, a software developer and **Information Systems** student at AnhembiMorumbi.
 
 My main focus is **backend development and software engineering**, with hands-on experience building **REST APIs, databases, automation workflows, tests, containerized applications, and infrastructure**.
 
