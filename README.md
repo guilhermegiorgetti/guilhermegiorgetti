@@ -2,43 +2,48 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=baa092\&size=35\&center=true\&vCenter=true\&width=1000\&lines=Backend+Developer;Software+Engineering;Python+%7C+FastAPI+%7C+PostgreSQL+%7C+Docker;Automation+%7C+APIs+%7C+SaaS)](https://github.com/guilhermegiorgetti)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=baa092\&size=35\&center=true\&vCenter=true\&width=1000\&lines=Backend+Engineer;Software+Engineering;Python+%7C+FastAPI+%7C+PostgreSQL+%7C+MongoDB;SaaS+%7C+Automation+%7C+APIs+%7C+DevOps)](https://github.com/guilhermegiorgetti)
 
 </div>
 
 # Guilherme Giorgetti
 
-### Backend Developer | Software Engineering
+### Backend Engineer | Software Engineering
 
-Hello! I'm **Guilherme Medeiros Giorgetti**, a software developer and **Information Systems** student at AnhembiMorumbi.
+I'm **Guilherme Medeiros Giorgetti**, a **Backend Engineer** and **Information Systems** student at **AnhembiMorumbi**.
 
-My main focus is **backend development and software engineering**, with hands-on experience building **REST APIs, databases, automation workflows, tests, containerized applications, and infrastructure**.
+My professional focus is **backend engineering and software development**, with practical experience designing and evolving **REST APIs, database systems, automation workflows, multi-tenant SaaS architecture, testing strategies, observability, and containerized infrastructure**.
 
-I currently work on the development of a **SaaS platform for accounting firms**, involving external API integrations, process automation, data processing, scheduled jobs, observability, and multi-tenant architecture.
+I contribute to the development of **IAC System**, a **fiscal and accounting automation platform** built for **IAC — Instituto Ararense de Contabilidade e Coaching**.
 
-I'm particularly interested in **software architecture, distributed systems, automation, DevOps, scalability, security, and building reliable software**.
+The platform is designed to **streamline and accelerate the daily operations of different departments within the accounting firm**, reducing repetitive manual processes while improving **accuracy, reliability, traceability, and operational efficiency**.
+
+🌐 **[iacsystem.cloud](https://iacsystem.cloud)**
+
+Beyond implementation, I am interested in understanding **how software systems are designed, operated, monitored, secured, and evolved over time**.
 
 <i>Araras, SP — Brazil 🇧🇷</i>
 
 ---
 
-## 🚀 About Me
+## 🚀 Engineering Focus
 
-* 🎓 Bachelor's Degree in **Information Systems — AnhembiMorumbi**
-* 💻 Main focus on **Backend Development**
-* 🐍 Building APIs and backend services with **Python + FastAPI**
-* 🗄️ Experience with **PostgreSQL and MongoDB**
-* 🐳 Containerization and environments with **Docker / Docker Compose**
-* 🧪 Automated testing and software quality
-* ⚙️ Process automation and external API integrations
-* 🔭 Observability and monitoring with **Sentry**
-* 🌐 Experience with **Linux, Ubuntu, Nginx, and VPS infrastructure**
-* 🔐 Interested in API security, authentication, authorization, and access control
-* 🏗️ Interested in software architecture and **SaaS / Multi-tenant systems**
+**Backend Engineering**
+**REST API Design**
+**Software Architecture**
+**SaaS & Multi-Tenancy**
+**Database Engineering**
+**Process Automation**
+**External API Integration**
+**Asynchronous & Background Processing**
+**Testing & Quality Engineering**
+**Observability & Reliability**
+**Performance & Scalability**
+**DevOps & Infrastructure**
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technology Stack
 
 ### Backend
 
@@ -47,7 +52,7 @@ I'm particularly interested in **software architecture, distributed systems, aut
 [![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=node.js\&logoColor=339933)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)]()
 
-### Databases
+### Data & Persistence
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge\&logo=mongodb\&logoColor=47A248)]()
@@ -55,66 +60,125 @@ I'm particularly interested in **software architecture, distributed systems, aut
 ### DevOps & Infrastructure
 
 [![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge\&logo=docker\&logoColor=2496ED)]()
+[![Docker Compose](https://img.shields.io/badge/Docker%20Compose-000?style=for-the-badge\&logo=docker\&logoColor=2496ED)]()
 [![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge\&logo=linux\&logoColor=FCC624)]()
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-000?style=for-the-badge\&logo=ubuntu\&logoColor=E95420)]()
 [![Nginx](https://img.shields.io/badge/Nginx-000?style=for-the-badge\&logo=nginx\&logoColor=009639)]()
 
 ### Testing & Observability
 
+[![Pytest](https://img.shields.io/badge/Pytest-000?style=for-the-badge\&logo=pytest\&logoColor=0A9EDC)]()
 [![Sentry](https://img.shields.io/badge/Sentry-000?style=for-the-badge\&logo=sentry\&logoColor=FB4226)]()
 [![k6](https://img.shields.io/badge/k6-000?style=for-the-badge\&logo=k6\&logoColor=7D64FF)]()
 
-### Development Workflow & AI Tools
+### Engineering Workflow
 
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git\&logoColor=F05032)]()
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github\&logoColor=white)]()
 [![Husky](https://img.shields.io/badge/Husky-000?style=for-the-badge\&logo=husky\&logoColor=white)]()
 [![Claude](https://img.shields.io/badge/Claude-000?style=for-the-badge\&logo=anthropic\&logoColor=white)]()
-[![Codex](https://img.shields.io/badge/OpenAI%20Codex-000?style=for-the-badge\&logo=openai\&logoColor=white)]()
+[![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-000?style=for-the-badge\&logo=openai\&logoColor=white)]()
 [![VS Code](https://img.shields.io/badge/VS%20Code-000?style=for-the-badge\&logo=visual-studio-code\&logoColor=007ACC)]()
 
 ---
 
-## 🏗️ Software Engineering Experience
+## 🏢 Professional Experience
 
-### Accounting Automation SaaS
+### IAC System — Fiscal & Accounting Automation
 
-I contribute to the backend development of a SaaS platform focused on **automation and process management for accounting firms**.
+**IAC System** is a software platform developed for **IAC — Instituto Ararense de Contabilidade e Coaching**, focused on the automation and digitalization of fiscal and accounting operations.
 
-My work involves:
+The system aims to make the accounting firm's daily workflows **faster, more accurate, reliable, and efficient**, supporting different departments and reducing repetitive manual operations.
 
-* Designing and evolving **REST APIs**
+🌐 **[iacsystem.cloud](https://iacsystem.cloud)**
+
+### Backend Engineering Contributions
+
+My work involves the development and evolution of backend systems and business-critical workflows, including:
+
+* **REST API** architecture and development
+* Business rules and application services
+* **Multi-tenant SaaS architecture**
 * Database modeling and migrations
-* **Multi-tenant architecture**
-* Integration with external services and APIs
-* Accounting process automation
-* Fiscal and financial document processing
+* PostgreSQL and MongoDB persistence
+* Data integrity and validation
+* External API and service integrations
+* Fiscal and accounting process automation
+* Document and data processing
 * Scheduled jobs and background routines
+* Asynchronous processing
 * Caching and external API optimization
-* Rate limiting and business rules
-* Automated testing
-* Observability and error monitoring
-* Docker-based containerization
-* Linux/VPS deployment and infrastructure
-* Version control and collaborative development with Git/GitHub
-* Development workflow automation using **Husky**
-* AI-assisted development and engineering workflows using **Claude and Codex**
-
-> My current goal is to keep growing in **software architecture, backend engineering, scalability, security, performance, and DevOps**.
+* Rate limiting and resource control
+* Circuit-breaker strategies for external dependencies
+* Automated testing and regression prevention
+* Application observability with **Sentry**
+* Performance and load testing with **k6**
+* Dockerized development and production environments
+* Linux/VPS infrastructure and deployment
+* Development workflow automation with **Husky**
+* Collaborative development using Git, GitHub and Pull Requests
+* AI-assisted engineering workflows using **Claude and OpenAI Codex**
 
 ---
 
-## 📚 Currently Learning
+## 🧩 Engineering Principles
 
-* 🏗️ Software Architecture
-* 🔐 API Security
-* ☁️ Cloud & DevOps
-* 🐳 Docker & Infrastructure
-* 🗄️ Database Design & Optimization
-* 🧪 Automated & Load Testing
-* ⚡ Performance & Scalability
-* 🔄 CI/CD
-* 📐 Design Patterns & Clean Architecture
+I approach software development with attention to the complete lifecycle of a system:
+
+**Architecture → Implementation → Testing → Observability → Deployment → Maintenance**
+
+Areas I continuously apply and develop:
+
+* Separation of concerns
+* SOLID principles
+* Clean Architecture
+* Design Patterns
+* API design and versioning
+* Authentication & Authorization
+* Data consistency and integrity
+* Fault tolerance
+* Performance optimization
+* Scalability
+* Secure development practices
+* CI/CD and DevOps
+* Maintainability and technical documentation
+
+---
+
+## 🤝 Professional & Soft Skills
+
+### Communication
+
+* Clear communication within technical and multidisciplinary teams
+* Technical knowledge sharing
+* **Monthly presentations and technical talks**
+* Ability to explain technical concepts in an accessible way
+
+### Collaboration
+
+* Team-oriented development
+* Collaborative problem solving
+* Git-based workflows and Pull Requests
+* Code review and shared ownership
+* Adaptability to different development contexts
+
+### Execution
+
+* Organization and task prioritization
+* Commitment to deadlines and objectives
+* Focus on delivering measurable results
+* Continuous improvement of processes and workflows
+* Responsibility for the quality and reliability of delivered software
+
+---
+
+## 📚 Continuous Development
+
+Currently deepening my knowledge in:
+
+**Software Architecture** · **Distributed Systems** · **Cloud & DevOps** · **API Security** · **Scalability** · **Performance Engineering** · **CI/CD** · **Database Optimization**
+
+I believe that strong engineering is built through a combination of **technical depth, continuous learning, communication, collaboration, and consistent execution**.
 
 ---
 
@@ -123,6 +187,10 @@ My work involves:
 [![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge\&logo=gmail\&logoColor=red)](mailto:guigiorgetti45@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/guilherme-giorgetti-868045281/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/guilhermegiorgetti)
-
 ---
+
+<div align="center">
+
+### Building reliable software to solve real-world problems.
+
+</div>
